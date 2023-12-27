@@ -1,2 +1,4 @@
-# gemini-pro-llm-multimodal-conversational-app
-Chat and Vision integrated Gemini Pro App
+# gemini-pro-llm-app
+- Chat and Vision integrated Gemini Pro App
+- Q&A chat bot with histroy saving
+- Multilanguage invoice extractor
